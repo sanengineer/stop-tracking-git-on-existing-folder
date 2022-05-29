@@ -1,2 +1,14 @@
 DS_Store
 .DS_Store
+
+# Testing Igonre Adding Folder
+subFolder3
+subFolder3/
+/subFolder3
+/subFolder3/
+
+# Testing Igonre Existing Folder
+subFolder2
+subFolder2/
+/subFolder2
+/subFolder2/
